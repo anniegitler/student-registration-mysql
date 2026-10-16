@@ -1,0 +1,7 @@
+﻿c.obj : error LNK2019: unresolved external symbol _mysql_error@4 referenced in function _wnd_proc@16
+c.obj : error LNK2019: unresolved external symbol _mysql_init@4 referenced in function _wnd_proc@16
+c.obj : error LNK2019: unresolved external symbol _mysql_real_connect@32 referenced in function _wnd_proc@16
+c.obj : error LNK2019: unresolved external symbol _mysql_query@8 referenced in function _wnd_proc@16
+c.obj : error LNK2019: unresolved external symbol _mysql_close@4 referenced in function _wnd_proc@16
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Anuk\Desktop\New folder\c\Debug\c.exe : fatal error LNK1120: 5 unresolved externals

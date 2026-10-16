@@ -1,0 +1,6 @@
+﻿  c.c
+C:\programin\projects\c\database\c.c(158,29): warning C4033: 'wnd_proc' must return a value
+C:\programin\projects\c\database\c.c(107,37): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\programin\projects\c\database\c.c(461,33): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\programin\projects\c\database\c.c(525,1): warning C4715: 'wnd_proc': not all control paths return a value
+  c.vcxproj -> C:\programin\projects\c\database\x64\Debug\c.exe
